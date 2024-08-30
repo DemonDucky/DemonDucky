@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there! 👋 I'm Tuấn Anh Lương
 
-<!--
-**DemonDucky/DemonDucky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 Student at FPT University
+- 🌱 Currently learning and growing in the world of technology
+- 💻 Passionate about coding, software development & marketing
 
-Here are some ideas to get you started:
+## Skills
+- Kotlin
+- Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Let's Collaborate!
+I'm always open to interesting projects and learning opportunities. Feel free to reach out if you want to collaborate or just chat about tech!
