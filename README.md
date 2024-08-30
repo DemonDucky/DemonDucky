@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Tuấn Anh Lương
 
 ## About Me
-- 🎓 Student at FPT University
+- 🎓 Junior at FPT University
 - 🌱 Currently learning and growing in the world of technology
 - 💻 Passionate about coding, software development & marketing
 
