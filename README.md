@@ -6,7 +6,7 @@
 - 💻 Passionate about web development, software solutions, and marketing strategies
 
 ## Skills
-- Web Development
+- Web Development (Svelte 5 & Sveltekit)
 - Marketing & Strategy
 
 ## Let's Connect!
